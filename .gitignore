@@ -1,0 +1,8 @@
+*~
+*bak
+dotconfigs/kite/logs/
+viminfo*
+view/
+tags
+.netrwhist
+logs/
