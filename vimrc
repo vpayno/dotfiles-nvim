@@ -1,6 +1,8 @@
 "
-" ~/.config/nvim/init.vim
+" ~/.config/nvim/vimrc (init.vim)
 "
+
+" This file should be compatible with both vim and nvim
 
 command! Scratch lua require'tools'.makeScratch()
 
